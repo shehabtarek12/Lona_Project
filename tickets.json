@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Shehab Tarek",
+        "email": "shehabtarek585@gmail.com",
+        "branch": "MOSAT",
+        "pcname": "SADAS",
+        "depname": "asfSAD",
+        "category": "technical",
+        "description": "sad",
+        "solution": null,
+        "image": "/uploads/Screenshot_2025-03-08_191117.png"
+    },
+    {
+        "name": "Shehab Tarek",
+        "email": "shehabtarek585@gmail.com",
+        "branch": "MOSAT",
+        "pcname": "SADAS",
+        "depname": "asfSAD",
+        "category": "network",
+        "description": "asdasda",
+        "solution": null,
+        "image": "/uploads/Screenshot_2025-04-03_110710.png"
+    },
+    {
+        "name": "Shehab Tarek",
+        "email": "shehabtarek585@gmail.com",
+        "branch": "MOSAT",
+        "pcname": "SADAS",
+        "depname": "asfSAD",
+        "category": "program",
+        "description": "asdasda",
+        "solution": null,
+        "image": "/uploads/Screenshot_2025-04-21_221216.png"
+    }
+]
